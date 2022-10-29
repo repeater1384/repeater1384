@@ -43,6 +43,8 @@
 
  
 # 📝 Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://soo-vely-dev.tistory.com](https://blog.naver.com/repeater1384)/)](https://blog.naver.com/repeater1384)
+네이버블로그
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://soo-vely-dev.tistory.com](https://blog.naver.com/repeater1384)/)](https://blog.naver.com/repeater1384)</br>
+메일
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:repeater1384@gmail.com)](mailto:repeater1384@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:repeater1384@naver.com)](mailto:repeater1384@naver.com)
