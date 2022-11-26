@@ -17,6 +17,7 @@
   <img src="http://mazandi.herokuapp.com/api?handle=qkrdlfrb123&theme=warm"/>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repeater1384&layout=compact&theme=tokyonight)
+  
 </div> -->
 
 
@@ -24,6 +25,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdlfrb123)](https://solved.ac/qkrdlfrb123/)
 <img src="http://mazandi.herokuapp.com/api?handle=qkrdlfrb123&theme=warm"/>
+<br/>
+#### [포트폴리오.pdf](https://github.com/repeater1384/repeater1384/blob/d0df2a45736227d478762e4e1d848edbd0d52365/%EB%B0%95%EC%9D%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_V3.pdf)
+221126 최종수정
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
