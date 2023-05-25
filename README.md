@@ -27,7 +27,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle=qkrdlfrb123&theme=warm"/>
 <br/>
 
-# 💪Skills
+<!-- # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -38,7 +38,7 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-
+ -->
  
 # 📝 Contacts
 네이버블로그
